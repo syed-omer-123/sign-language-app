@@ -67,7 +67,11 @@ More sign classes
 Mobile-friendly optimizationz
 
 👨‍💻 Author
+
 Syed Omer Hussaini
+
 🎓 Computer Science & Data Science
+
 https://www.linkedin.com/in/syed-omer-hussaini-b023437a/
+
 farazhussaini124@gmail.com
